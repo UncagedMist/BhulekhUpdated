@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "857935910368",
+    "firebase_url": "https://groupchat-187514.firebaseio.com",
+    "project_id": "groupchat-187514",
+    "storage_bucket": "groupchat-187514.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857935910368:android:e32f87fadb1dea5b",
+        "android_client_info": {
+          "package_name": "com.kk.solution.dev.groupchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857935910368-13nhv4qk64a0skrgjel38hdrqc7vo2kr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kk.solution.dev.groupchatapp",
+            "certificate_hash": "a8fc78538767ecde4d10c454a5c2b47c72f8acfc"
+          }
+        },
+        {
+          "client_id": "857935910368-6hq27h8a133g7vdbnhijmfpmmt23ph9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTUmJABUqNb2fUFxGUpVPkADwMeOE6I0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857935910368-6hq27h8a133g7vdbnhijmfpmmt23ph9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857935910368:android:9852f23cb1d4599ff7c785",
+        "android_client_info": {
+          "package_name": "tbc.uncagedmist.bhulekhkheshra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857935910368-6hq27h8a133g7vdbnhijmfpmmt23ph9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTUmJABUqNb2fUFxGUpVPkADwMeOE6I0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857935910368-6hq27h8a133g7vdbnhijmfpmmt23ph9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857935910368:android:76bedcac097ef85df7c785",
+        "android_client_info": {
+          "package_name": "tbc.uncagedmist.bhulekhserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857935910368-6hq27h8a133g7vdbnhijmfpmmt23ph9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTUmJABUqNb2fUFxGUpVPkADwMeOE6I0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857935910368-6hq27h8a133g7vdbnhijmfpmmt23ph9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857935910368:android:8bcb274f116e452bf7c785",
+        "android_client_info": {
+          "package_name": "tbc.uncagedmist.newwebview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857935910368-6hq27h8a133g7vdbnhijmfpmmt23ph9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTUmJABUqNb2fUFxGUpVPkADwMeOE6I0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857935910368-6hq27h8a133g7vdbnhijmfpmmt23ph9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
