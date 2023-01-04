@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bhulekh</string>
+
+    <string name="applovin_full">fd9906854ae940d5</string>
+    <string name="applovin_banner">dca43af4e81f09ca</string>
+    <string name="applovin_native">bf1715300c3ebcdd</string>
+    <string name="applovin_open">6318d44403004391</string>
+
+    <string name="max_sdk_key">
+        eSi6LOvzSx3TMPNxhwykIxG2Cyf3w0OhNcqAiF9G2Mw0zaDJK6oCmuD4g1l6z_5yqnp1Vw2MLVW_xwM_umVnvV
+    </string>
+
+</resources>
